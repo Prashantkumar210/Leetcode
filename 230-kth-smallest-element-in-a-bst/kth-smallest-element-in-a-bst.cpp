@@ -1,30 +1,15 @@
 class Solution {
 public:
-
-    void find(TreeNode* root, int &k,vector<int>&arr){
-
-        if(root==NULL)  return;
-
-        arr.push_back(root->val);
-
-        find(root->left, k, arr);
-        find(root->right, k, arr);
-    }
-
-    int kthSmallest(TreeNode* root, int k) {
+    int kthSmallest(TreeNode* root, int &k) {
         
-      
-        vector<int>arr;
-        find(root, k,arr);
+        if(!root) return -1;
 
-        sort(arr.begin(), arr.end());
+        int left = kthSmallest(root->left, k);
+        if(left!=-1) return left;
+        --k;
+        if(k==0) return root->val;
 
-        int ans =0;
-        for(int i=0; i<k; i++){
-
-            ans = arr[i];
-        }
-
-        return ans;
+        int right = kthSmallest(root->right, k);
+        return right;;
     }
 };
