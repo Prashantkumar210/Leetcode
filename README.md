@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prashantkumar210/Leetcode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Prashantkumar210/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashantkumar210/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prashantkumar210/Leetcode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Prashantkumar210/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
