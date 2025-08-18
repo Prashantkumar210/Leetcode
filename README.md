@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -34,6 +35,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
