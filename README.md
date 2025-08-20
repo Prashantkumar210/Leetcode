@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Array
@@ -49,12 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,9 +65,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
