@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -77,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
