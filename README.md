@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
 | [0137-single-number-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
