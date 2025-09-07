@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Prashantkumar210/Leetcode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Prashantkumar210/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashantkumar210/Leetcode/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
