@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
 | [0137-single-number-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -70,15 +71,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prashantkumar210/Leetcode/tree/master/0016-3sum-closest) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -102,5 +106,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
