@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Prashantkumar210/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Prashantkumar210/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
