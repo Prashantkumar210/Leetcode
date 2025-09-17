@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prashantkumar210/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prashantkumar210/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prashantkumar210/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
