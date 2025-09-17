@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prashantkumar210/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prashantkumar210/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1542-consecutive-characters](https://github.com/Prashantkumar210/Leetcode/tree/master/1542-consecutive-characters) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
