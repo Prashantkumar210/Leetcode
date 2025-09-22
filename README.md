@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prashantkumar210/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3830-find-closest-person](https://github.com/Prashantkumar210/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
