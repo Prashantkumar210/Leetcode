@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prashantkumar210/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prashantkumar210/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prashantkumar210/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prashantkumar210/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
