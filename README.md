@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/Prashantkumar210/Leetcode/tree/master/0561-array-partition) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/Prashantkumar210/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/Prashantkumar210/Leetcode/tree/master/0561-array-partition) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Prashantkumar210/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/Prashantkumar210/Leetcode/tree/master/0561-array-partition) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -143,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prashantkumar210/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Prashantkumar210/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
