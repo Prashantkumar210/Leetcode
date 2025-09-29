@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prashantkumar210/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
