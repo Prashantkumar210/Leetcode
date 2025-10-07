@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Prashantkumar210/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0179-largest-number) |
+| [0383-ransom-note](https://github.com/Prashantkumar210/Leetcode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Prashantkumar210/Leetcode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Prashantkumar210/Leetcode/tree/master/0837-most-common-word) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prashantkumar210/Leetcode/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/Prashantkumar210/Leetcode/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashantkumar210/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Prashantkumar210/Leetcode/tree/master/0837-most-common-word) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prashantkumar210/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashantkumar210/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Prashantkumar210/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prashantkumar210/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
