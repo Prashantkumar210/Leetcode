@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2032-largest-odd-number-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2475-largest-palindromic-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prashantkumar210/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Stack
 |  |
 | ------- |
