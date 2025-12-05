@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prashantkumar210/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Prashantkumar210/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prashantkumar210/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -215,4 +217,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Prashantkumar210/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
