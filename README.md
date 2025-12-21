@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Prashantkumar210/Leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Prashantkumar210/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prashantkumar210/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prashantkumar210/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prashantkumar210/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0837-most-common-word](https://github.com/Prashantkumar210/Leetcode/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prashantkumar210/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prashantkumar210/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prashantkumar210/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
