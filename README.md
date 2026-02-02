@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Prashantkumar210/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Prashantkumar210/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
