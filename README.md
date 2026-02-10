@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Prashantkumar210/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Prashantkumar210/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1252-break-a-palindrome](https://github.com/Prashantkumar210/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Prashantkumar210/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -227,4 +228,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Prashantkumar210/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Prashantkumar210/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Prashantkumar210/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
