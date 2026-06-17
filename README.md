@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Prashantkumar210/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3612-process-string-with-special-operations-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prashantkumar210/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prashantkumar210/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
