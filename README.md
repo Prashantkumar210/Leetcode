@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Prashantkumar210/Leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/Prashantkumar210/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Prashantkumar210/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Prashantkumar210/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prashantkumar210/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prashantkumar210/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Prashantkumar210/Leetcode/tree/master/1448-maximum-69-number) |
