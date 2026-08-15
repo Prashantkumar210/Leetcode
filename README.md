@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Prashantkumar210/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashantkumar210/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prashantkumar210/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2475-largest-palindromic-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2475-largest-palindromic-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prashantkumar210/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashantkumar210/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prashantkumar210/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
