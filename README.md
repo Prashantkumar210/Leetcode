@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2475-largest-palindromic-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prashantkumar210/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-reduce-array-size-to-the-half](https://github.com/Prashantkumar210/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Prashantkumar210/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2475-largest-palindromic-number](https://github.com/Prashantkumar210/Leetcode/tree/master/2475-largest-palindromic-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prashantkumar210/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prashantkumar210/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Prashantkumar210/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Prashantkumar210/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Prashantkumar210/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prashantkumar210/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
